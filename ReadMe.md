@@ -22,7 +22,7 @@ Hey there, This is Parth, a BE(AIML) student with a passion for Artificial Intel
 
 ### ✍️ Code Mantra
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<div align="center">This text will be centered</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=parthgupta1208&icon=6&color=6)](https://visitcount.itsvg.in)
 
