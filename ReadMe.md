@@ -20,10 +20,9 @@ Hey there, This is Parth, a BE(AIML) student with a passion for Artificial Intel
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=parthgupta1208&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<center>
 ### ✍️ Code Mantra
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</center>
+<div align="center">This text will be centered</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=parthgupta1208&icon=6&color=6)](https://visitcount.itsvg.in)
 
