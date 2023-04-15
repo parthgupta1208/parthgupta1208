@@ -1,5 +1,22 @@
 # 💫 About Me:
-Hey there, This is Parth, a BE(AIML) student with a passion for Artificial Intelligence, Machine Learning, and Data Science. I'm a problem-solver at heart and enjoy tackling complex challenges in the field. With experience in AI, ML, Deep Learning, NLP, React, Django/Flask, and Flutter, I have honed my skills in the latest technologies.<br><br>Python is my weapon of choice, and I wield it with great finesse. I'm also proficient in C++, Java, and Solidity and have an eye for detail when it comes to debugging codes. I have both internship and freelancing experience, which has given me a chance to collaborate with diverse teams and deliver projects within deadlines.<br><br>I'm always eager to learn and experiment with new tools and techniques. I believe in continuous learning and staying up-to-date with industry trends.<br><br>When I'm not coding, you'll find me exploring new places, binge-watching my favorite shows, or catching up on some books. If you're looking for a creative and driven problem-solver who can bring your ideas to life, let's connect and build something amazing together!
+
+👋 Hey! I'm Parth, a BE(AIML) student with a passion for AI, ML, Data Science and Prompt Engineering.
+
+💻 As a natural problem-solver, I love tackling complex challenges in these fields.
+
+🚀 With experience in AI, ML, Deep Learning, NLP, React, Django/Flask, and Flutter, I'm skilled in the latest technologies.
+
+🐍 Python is my weapon of choice, but I'm proficient in C++, Java, and Solidity too.
+
+💼 Having both internship and freelancing experience, I've honed my collaboration and project delivery skills.
+
+🌟 I'm continuously learning and experimenting with new tools and techniques to stay up-to-date with industry trends.
+
+🌎 When I'm not coding, I'm exploring new places, binge-watching my favorite shows, or reading books.
+
+🤝 Let's connect and build something amazing together if you're looking for a creative and driven problem-solver!<br><br>
+
+<!-- Hey there, This is Parth, a BE(AIML) student with a passion for Artificial Intelligence, Machine Learning, and Data Science. I'm a problem-solver at heart and enjoy tackling complex challenges in the field. With experience in AI, ML, Deep Learning, NLP, React, Django/Flask, and Flutter, I have honed my skills in the latest technologies.<br><br>Python is my weapon of choice, and I wield it with great finesse. I'm also proficient in C++, Java, and Solidity and have an eye for detail when it comes to debugging codes. I have both internship and freelancing experience, which has given me a chance to collaborate with diverse teams and deliver projects within deadlines.<br><br>I'm always eager to learn and experiment with new tools and techniques. I believe in continuous learning and staying up-to-date with industry trends.<br><br>When I'm not coding, you'll find me exploring new places, binge-watching my favorite shows, or catching up on some books. If you're looking for a creative and driven problem-solver who can bring your ideas to life, let's connect and build something amazing together! -->
 
 
 # 🌐 Socials:
