@@ -44,6 +44,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parthgupta1208&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthgupta1208&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+  
+### 📈 Activity Graph
+  
+<a href="https://github.com/parthgupta1208/github-readme-activity-graph"><img alt="Aadarsh's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=parthgupta1208&theme=react-dark" /><a>
+
 
 
 
