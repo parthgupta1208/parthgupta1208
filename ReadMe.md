@@ -47,7 +47,7 @@
   
 ### 📈 Activity Graph
   
-<a href="https://github.com/parthgupta1208/github-readme-activity-graph"><img alt="Aadarsh's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=parthgupta1208&theme=react-dark" /><a>
+<a href="https://github.com/parthgupta1208/github-readme-activity-graph"><img alt="Parth's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=parthgupta1208&theme=react-dark" /><a>
 
 
 
