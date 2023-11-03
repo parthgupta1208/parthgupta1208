@@ -1,16 +1,6 @@
 # 💫 About Me:
 
-👋 Hey! I'm Parth, a BE(AIML) student with a passion for AI, ML, Data Science and Prompt Engineering.
-
-💻 As a natural problem-solver, I love tackling complex challenges in these fields.
-
-🚀 With experience in AI, ML, Deep Learning, NLP, React, Django/Flask, and Flutter, I'm skilled in the latest technologies.
-
-🐍 Python is my weapon of choice, but I'm proficient in C++, Java, and Solidity too.
-
-💼 Having both internship and freelancing experience, I've honed my collaboration and project delivery skills.
-
-🌟 I'm continuously learning and experimenting with new tools and techniques to stay up-to-date with industry trends.
+👋 Hey! I'm Parth, a BE(AIML) student with a passion for AI, ML and Prompt Engineering.
 
 🌎 When I'm not coding, I'm exploring new places, binge-watching my favorite shows, or reading books.
 
@@ -40,31 +30,18 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=parthgupta1208&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parthgupta1208&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthgupta1208&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
   
-### 📈 Activity Graph
+# 📈 Activity Graph
   
-<a href="https://github.com/parthgupta1208/github-readme-activity-graph"><img alt="Parth's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=parthgupta1208&theme=react-dark" /><a>
-
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=parthgupta1208&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-### ✍️ Code Mantra
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parthgupta1208&theme=nightowl)](https://github.com/parthgupta1208/github-readme-activity-graph)
 
 **SHOW SOME ❤️ BY STARRING SOME REPOS**
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=parthgupta1208&icon=6&color=6)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=parthgupta1208&icon=6&color=6)](https://visitcount.itsvg.in)-->
 
 </div>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
